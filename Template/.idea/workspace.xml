@@ -1,23 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f7ce421-7533-4867-8b71-c3d86d008dc3" name="Default" comment="" />
-    <ignored path="DependencyInversionPrinciple.iws" />
+    <list default="true" id="090a9d14-730e-4caa-9486-38540a584d1b" name="Default" comment="" />
+    <ignored path="Template.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Switchable.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373436133501" ignored="false" />
-    <file path="/Fan.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373436235705" ignored="false" />
-    <file path="/Lamp.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373436217761" ignored="false" />
-    <file path="/Main.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373438632856" ignored="false" />
-    <file path="/Button.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373436347625" ignored="false" />
-    <file path="$PROJECT_DIR$/../untitled/src/Main.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373437043168" ignored="false" />
-    <file path="$PROJECT_DIR$/../Command/src/Main.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373438632856" ignored="false" />
-    <file path="$PROJECT_DIR$/../Command/src/Command.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373439851708" ignored="false" />
-    <file path="/Command.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373439849656" ignored="false" />
-    <file path="$PROJECT_DIR$/../Command/src/PlayCommand.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373440137703" ignored="false" />
-    <file path="$PROJECT_DIR$/../Command/src/StopCommand.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373439995748" ignored="false" />
-    <file path="$PROJECT_DIR$/../Command/src/TargetObject.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373440092275" ignored="false" />
-    <file path="/TargetObject.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373440083952" ignored="false" />
-    <file path="/PlayCommand.scala" changelist="2f7ce421-7533-4867-8b71-c3d86d008dc3" time="1373440137703" ignored="false" />
+    <file path="/Main.scala" changelist="090a9d14-730e-4caa-9486-38540a584d1b" time="1373443993523" ignored="false" />
+    <file path="/ftocraw.scala" changelist="090a9d14-730e-4caa-9486-38540a584d1b" time="1373442135731" ignored="false" />
+    <file path="/sample.txt" changelist="090a9d14-730e-4caa-9486-38540a584d1b" time="1373441622100" ignored="false" />
+    <file path="/BubbleSortTemplate.scala" changelist="090a9d14-730e-4caa-9486-38540a584d1b" time="1373444043437" ignored="false" />
+    <file path="/IntBubbleSorter.scala" changelist="090a9d14-730e-4caa-9486-38540a584d1b" time="1373443835178" ignored="false" />
+    <file path="/StringBubbleSorter.scala" changelist="090a9d14-730e-4caa-9486-38540a584d1b" time="1373443899505" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,50 +66,43 @@
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
-    <favorites_list name="DependencyInversionPrinciple" />
+    <favorites_list name="Template" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="Main.scala" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="27" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
+            <state line="16" column="25" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StringBubbleSorter.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/StringBubbleSorter.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="34" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Button.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Button.scala">
+      <file leaf-file-name="BubbleSortTemplate.scala" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/BubbleSortTemplate.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="24" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
+            <state line="22" column="13" selection-start="597" selection-end="597" vertical-scroll-proportion="0.5602716">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Switchable.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Switchable.scala">
+      <file leaf-file-name="IntBubbleSorter.scala" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IntBubbleSorter.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="2" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Fan.scala" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Fan.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="37" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Lamp.scala" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Lamp.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.2801358">
+            <state line="8" column="0" selection-start="211" selection-end="316" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -133,11 +118,12 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/src/Switchable.scala" />
-        <option value="$PROJECT_DIR$/src/Lamp.scala" />
-        <option value="$PROJECT_DIR$/src/Fan.scala" />
+        <option value="$PROJECT_DIR$/sample.txt" />
+        <option value="$PROJECT_DIR$/src/ftocraw.scala" />
+        <option value="$PROJECT_DIR$/src/IntBubbleSorter.scala" />
+        <option value="$PROJECT_DIR$/src/StringBubbleSorter.scala" />
         <option value="$PROJECT_DIR$/src/Main.scala" />
-        <option value="$PROJECT_DIR$/src/Button.scala" />
+        <option value="$PROJECT_DIR$/src/BubbleSortTemplate.scala" />
       </list>
     </option>
   </component>
@@ -172,32 +158,33 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DependencyInversionPrinciple" />
+              <option name="myItemId" value="Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DependencyInversionPrinciple" />
+              <option name="myItemId" value="Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DependencyInversionPrinciple" />
+              <option name="myItemId" value="Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DependencyInversionPrinciple" />
+              <option name="myItemId" value="Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="DependencyInversionPrinciple" />
+              <option name="myItemId" value="Template" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -207,7 +194,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -231,7 +217,7 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="DependencyInversionPrinciple" />
+      <module name="Template" />
       <envs />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -341,9 +327,9 @@
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f7ce421-7533-4867-8b71-c3d86d008dc3" name="Default" comment="" />
-      <created>1373436069219</created>
-      <updated>1373436069219</updated>
+      <changelist id="090a9d14-730e-4caa-9486-38540a584d1b" name="Default" comment="" />
+      <created>1373440401888</created>
+      <updated>1373440401888</updated>
     </task>
     <servers />
   </component>
@@ -366,7 +352,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24972558" sideWeight="0.67065215" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32934782" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -439,37 +425,32 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Switchable.scala">
+    <entry file="file://$PROJECT_DIR$/src/IntBubbleSorter.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="2" selection-start="177" selection-end="177" vertical-scroll-proportion="0.0">
+        <state line="8" column="0" selection-start="211" selection-end="316" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/StringBubbleSorter.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="34" selection-start="321" selection-end="321" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="27" selection-start="261" selection-end="261" vertical-scroll-proportion="0.0">
-          <folding />
+        <state line="16" column="25" selection-start="375" selection-end="375" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Button.scala">
+    <entry file="file://$PROJECT_DIR$/src/BubbleSortTemplate.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="24" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Fan.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="37" selection-start="223" selection-end="223" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Lamp.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="0" selection-start="273" selection-end="273" vertical-scroll-proportion="0.2801358">
+        <state line="22" column="13" selection-start="597" selection-end="597" vertical-scroll-proportion="0.5602716">
           <folding />
         </state>
       </provider>
