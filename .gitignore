@@ -1,0 +1,13 @@
+.DS_Store
+node_modules
+tmp
+/\.
+xcuserdata
+^build/
+.*\.mode1v3$
+.*\.pbxuser$
+.*\.xcworkspace$
+log/
+tmp
+out
+.*\.class
